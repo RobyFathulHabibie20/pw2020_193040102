@@ -1,0 +1,16 @@
+body {
+	margin: 150px;
+	background: url(../assets/img/bg1.jpg) no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	font-family: Lucida Handwriting;
+	color : red;
+}
+table {
+	background: transparent;
+	text-align: center;
+	font-family: arial;
+	color: #fff;
+}
